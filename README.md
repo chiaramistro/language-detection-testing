@@ -5,4 +5,4 @@ Scripts in Python to measure:
 - execution time
 - accuracy
 
-Author: Chiara Mistrorigo
+Author: *Chiara Mistrorigo*

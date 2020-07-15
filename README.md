@@ -1,5 +1,5 @@
 # Language detection tools
-# Testing and Performance Analysis
+## Testing and Performance Analysis
 
 Scripts in Python to measure:
 - execution time

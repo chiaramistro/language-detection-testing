@@ -5,6 +5,8 @@ import time
 
 """
 Analyze content using "cld" package
+
+** Modify variable "analyzedLanguage" to analyze a specific language
 """
 
 def runCld():
